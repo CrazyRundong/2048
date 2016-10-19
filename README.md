@@ -20,7 +20,7 @@
 
 This's a simple clone of popular game `2048` via `Python3` and `PyGame`.
 
-**This project is under develpoing. If you try to run it now, you'll enjoy yourself with some amazing bugs :) **
+**This project is under develpoing. If you try to run it now, you'll enjoy yourself with some amazing bugs :)**
 
 ## Install
 
@@ -31,7 +31,7 @@ This's a simple clone of popular game `2048` via `Python3` and `PyGame`.
 
 - You can use / destribute / modify this code as your wish without my permission;
 - You can use this code without any `copyright` or `copyleft` attached;
-- This code's just for individual usage only, any non-individual (include educational) usage is forbidden;
+- This code's just for individual usage only, any non-individual (**include educational**) usage is forbidden;
 - Iterative updates or bug fixing are NOT Guaranteed.
 
 Just have fun~
