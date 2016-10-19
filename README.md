@@ -6,7 +6,7 @@
 
 ## Install
 
-- 下载安装 [`Python3`](https://www.python.org/downloads/) （`Python2` 应该也能运行） 和 [`PyGame`](http://www.pygame.org/download.shtml)。如果你使用的是 64 位系统，可以选择 U.C.Irvine [Dr.Christoph Gohlke](http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame) 编译的 64bit 版 PyGame;
+- 下载安装 [`Python3`](https://www.python.org/downloads/) （`Python2` 应该也能运行） 和 [`PyGame`](http://www.pygame.org/download.shtml)。如果你使用的是 64 位系统，可以选择 U.C.Irvine Dr.Christoph Gohlke 编译的 [64bit 版 PyGame](http://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame);
 - 在根目录下执行 `python ./2048_main.py`。
 
 ## Screen shots
