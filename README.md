@@ -20,7 +20,7 @@
 
 This's a simple clone of popular game `2048` via `Python3` and `PyGame`.
 
-** This project is under develpoing. If you try to run it now, you'll enjoy yourself with some amazing bugs :) **
+**This project is under develpoing. If you try to run it now, you'll enjoy yourself with some amazing bugs :) **
 
 ## Install
 
