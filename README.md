@@ -19,9 +19,9 @@ program running | failure screen
 
 ## License
 
-- 该项目代码可以随意使用 / 分发 / 修改，而不必征得本人同意；
+- 该项目代码可以随意使用 / 修改，而不必征得本人同意；
 - 使用该项目代码时不必附上任何版权 / 作者申明；
-- 该软件仅供个人学习游戏开发所用，不可用于任何包括商业 / 非商业（**包括教育**）行为在内的非个人用途；
+- 该软件仅供个人学习游戏开发所用，不得分发，亦不得用于任何包括商业 / 非商业（**包括教育**）行为在内的非个人用途；
 - 作者不保证迭代更新 / 修复软件 BUG。
 
 # 2048 Game by Python3 and PyGame (English)
@@ -45,9 +45,9 @@ program running | failure screen
 
 ## License
 
-- You may use / distribute / modify this code as your wish without my permission;
+- You may use / modify this code as your wish without my permission;
 - You may use this code without any `copyright` or `copyleft` attached;
-- This code's just for individual usage only, any non-individual (**include educational**) usage is forbidden;
+- This code's just for individual usage only, distribution or any other non-individual (**include educational**) usage is forbidden;
 - Iterative updates or bug fixing are NOT Guaranteed.
 
 Just have fun~
